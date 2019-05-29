@@ -1,7 +1,0 @@
-name: objective-desktop
-version: git
-summary: ObjectiveDesktopEnvironment
-description: >
-  A simple tiling desktop environment that has the versitility of a gymnast while eliminating most distractions
-
-confinement: devmode
